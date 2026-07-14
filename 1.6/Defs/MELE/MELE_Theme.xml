@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <MusicExpanded.ThemeDef>
         <defName>ME_MELE</defName>
@@ -5,9 +6,7 @@
 		<iconPath>UI/Icons/MELE</iconPath>
         <description>Contains tracks from Mass Effect Legendary Edition, all three games in one. Why? Because so much stuff has been used between games that to divide it by games would make too much work for too little gain.</description>
 		<tracks>			
-		<!-- Ambient Tracks -->
 			
-			<!-- Mass Effect -->			
 			<li>ME_MELE_The_Normandy</li>	
 			<li>ME_MELE_Eden_Prime</li>	
 			<li>ME_MELE_The_Citadel</li>	
@@ -29,7 +28,6 @@
 			<li>ME_MELE_Victory</li>	
 			<li>ME_MELE_From_The_Wreckage</li>	
 
-			<!-- Mass Effect 2 -->	
 			<li>ME_MELE_The_Illusive_Man</li>	
 			<li>ME_MELE_Humans_Are_Disappearing</li>	
 			<li>ME_MELE_The_Lazarus_Project</li>	
@@ -42,7 +40,6 @@
 			<li>ME_MELE_Suicide_Mission</li>	
 			<li>ME_MELE_Reflections</li>	
 			
-			<!-- Mass Effect 3 -->				
 			<li>ME_MELE_The_Fate_Of_The_Galaxy</li>	
 			<li>ME_MELE_Leaving_Earth</li>	
 			<li>ME_MELE_Mars</li>	
@@ -63,14 +60,11 @@
 			<li>ME_MELE_Betrayal</li>	
 			<li>ME_MELE_Creation</li>	
 			
-			<!-- Main Menu/Credits Tracks -->
 			<li>ME_MELE_Mass_Effect_Theme</li>	
 			<li>ME_MELE_An_End_Once_And_For_All</li>	
 			<li>ME_MELE_The_End</li>	
 			
-		<!-- Battle Tracks Tracks -->
 			
-			<!-- Mass Effect -->			
 			<li>ME_MELE_Battle_At_Eden_Prime</li>	
 			<li>ME_MELE_Protecting_the_Colony</li>	
 			<li>ME_MELE_The_Thorian</li>	
@@ -84,7 +78,6 @@
 			<li>ME_MELE_In_Pursuit_of_Saren</li>	
 			<li>ME_MELE_Final_Assault</li>	
 			
-			<!-- Mass Effect 2 -->			
 			<li>ME_MELE_The_Attack</li>	
 			<li>ME_MELE_A_Rude_Awakening</li>	
 			<li>ME_MELE_Miranda</li>	
@@ -101,19 +94,16 @@
 			<li>ME_MELE_Crash_Landing</li>	
 			<li>ME_MELE_The_End_Run</li>
 
-			<!-- Mass Effect 3-->			
 			<li>ME_MELE_A_Cerberus_Agent</li>	
 			<li>ME_MELE_The_Ardat_Yakshi</li>	
 			<li>ME_MELE_The_Cerberus_Plot</li>	
 			<li>ME_MELE_Reaper_Chase</li>			
 	
-			<!-- Custom Cue Tracks -->
 			<li>ME_MELE_New_Worlds</li>	
 			<li>ME_MELE_Uncharted_Worlds</li>			
 			<li>ME_MELE_Saren</li>
 
 			
-			<!-- Anomaly Tracks -->
 			
 			</tracks>
     </MusicExpanded.ThemeDef>
