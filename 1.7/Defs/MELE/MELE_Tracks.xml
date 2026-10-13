@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Normandy</label>
+		<defName>ME_MELE_The_Normandy</defName>
+		<clipPath>MusicExpanded/MELE/The Normandy</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Eden Prime</label>
+		<defName>ME_MELE_Eden_Prime</defName>
+		<clipPath>MusicExpanded/MELE/Eden Prime</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Citadel</label>
+		<defName>ME_MELE_The_Citadel</defName>
+		<clipPath>MusicExpanded/MELE/The Citadel</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Presidium</label>
+		<defName>ME_MELE_The_Presidium</defName>
+		<clipPath>MusicExpanded/MELE/The Presidium</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Wards</label>
+		<defName>ME_MELE_The_Wards</defName>
+		<clipPath>MusicExpanded/MELE/The Wards</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Criminal Elements</label>
+		<defName>ME_MELE_Criminal_Elements</defName>
+		<clipPath>MusicExpanded/MELE/Criminal Elements</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Spectre Induction</label>
+		<defName>ME_MELE_Spectre_Induction</defName>
+		<clipPath>MusicExpanded/MELE/Spectre Induction</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Liara's World</label>
+		<defName>ME_MELE_Liaras_World</defName>
+		<clipPath>MusicExpanded/MELE/Liara's World</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - A Very Dangerous_Place</label>
+		<defName>ME_MELE_A_Very_Dangerous_Place</defName>
+		<clipPath>MusicExpanded/MELE/A Very Dangerous Place</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Feros</label>
+		<defName>ME_MELE_Feros</defName>
+		<clipPath>MusicExpanded/MELE/Feros</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Noveria</label>
+		<defName>ME_MELE_Noveria</defName>
+		<clipPath>MusicExpanded/MELE/Noveria</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Secret Labs</label>
+		<defName>ME_MELE_The_Secret_Labs</defName>
+		<clipPath>MusicExpanded/MELE/The Secret Labs</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Exit</label>
+		<defName>ME_MELE_Exit</defName>
+		<clipPath>MusicExpanded/MELE/Exit</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Love Theme</label>
+		<defName>ME_MELE_Love_Theme</defName>
+		<clipPath>MusicExpanded/MELE/Love Theme</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Ilos</label>
+		<defName>ME_MELE_Ilos</defName>
+		<clipPath>MusicExpanded/MELE/Ilos</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Vigil</label>
+		<defName>ME_MELE_Vigil</defName>
+		<clipPath>MusicExpanded/MELE/Vigil</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Sovereign's Theme</label>
+		<defName>ME_MELE_Sovereigns_Theme</defName>
+		<clipPath>MusicExpanded/MELE/Sovereign's Theme</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Infusion</label>
+		<defName>ME_MELE_Infusion</defName>
+		<clipPath>MusicExpanded/MELE/Infusion</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Victory</label>
+		<defName>ME_MELE_Victory</defName>
+		<clipPath>MusicExpanded/MELE/Victory</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - From the Wreckage</label>
+		<defName>ME_MELE_From_The_Wreckage</defName>
+		<clipPath>MusicExpanded/MELE/From the Wreckage</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - New Worlds</label>
+		<defName>ME_MELE_New_Worlds</defName>
+		<clipPath>MusicExpanded/MELE/New Worlds</clipPath>
+		<vanillaLogic>true</vanillaLogic>	
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Uncharted Worlds</label>
+		<defName>ME_MELE_Uncharted_Worlds</defName>
+		<clipPath>MusicExpanded/MELE/Uncharted Worlds</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Illusive Man</label>
+		<defName>ME_MELE_The_Illusive_Man</defName>
+		<clipPath>MusicExpanded/MELE/The Illusive Man</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Humans Are Disappearing</label>
+		<defName>ME_MELE_Humans_Are_Disappearing</defName>
+		<clipPath>MusicExpanded/MELE/Humans Are Disappearing</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Lazarus Project</label>
+		<defName>ME_MELE_The_Lazarus_Project</defName>
+		<clipPath>MusicExpanded/MELE/The Lazarus Project</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Normandy Reborn</label>
+		<defName>ME_MELE_The_Normandy_Reborn</defName>
+		<clipPath>MusicExpanded/MELE/The Normandy Reborn</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Freedom's Progress</label>
+		<defName>ME_MELE_Freedoms_Progress</defName>
+		<clipPath>MusicExpanded/MELE/Freedom's Progress</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - An Unknown Enemy</label>
+		<defName>ME_MELE_An_Unknown_Enemy</defName>
+		<clipPath>MusicExpanded/MELE/An Unknown Enemy</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Horizon</label>
+		<defName>ME_MELE_Horizon</defName>
+		<clipPath>MusicExpanded/MELE/Horizon</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Jump Drive</label>
+		<defName>ME_MELE_Jump_Drive</defName>
+		<clipPath>MusicExpanded/MELE/Jump Drive</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Collector Base</label>
+		<defName>ME_MELE_The_Collector_Base</defName>
+		<clipPath>MusicExpanded/MELE/The Collector Base</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Suicide Mission</label>
+		<defName>ME_MELE_Suicide_Mission</defName>
+		<clipPath>MusicExpanded/MELE/Suicide Mission</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Reflections</label>
+		<defName>ME_MELE_Reflections</defName>
+		<clipPath>MusicExpanded/MELE/Reflections</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	
+	
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Fate of the Galaxy</label>
+		<defName>ME_MELE_The_Fate_Of_The_Galaxy</defName>
+		<clipPath>MusicExpanded/MELE/The Fate of the Galaxy</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Leaving Earth</label>
+		<defName>ME_MELE_Leaving_Earth</defName>
+		<clipPath>MusicExpanded/MELE/Leaving Earth</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Mars</label>
+		<defName>ME_MELE_Mars</defName>
+		<clipPath>MusicExpanded/MELE/Mars</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The View of Palaven</label>
+		<defName>ME_MELE_The_View_of_Palaven</defName>
+		<clipPath>MusicExpanded/MELE/The View of Palaven</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - A Future for the Krogan</label>
+		<defName>ME_MELE_A_Future_for_the_Krogan</defName>
+		<clipPath>MusicExpanded/MELE/A Future for the Krogan</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	
+		<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Sur'Kesh</label>
+		<defName>ME_MELE_Surkesh</defName>
+		<clipPath>MusicExpanded/MELE/Sur'Kesh</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Rannoch</label>
+		<defName>ME_MELE_Rannoch</defName>
+		<clipPath>MusicExpanded/MELE/Rannoch</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - I'm Sorry</label>
+		<defName>ME_MELE_Im_Sorry</defName>
+		<clipPath>MusicExpanded/MELE/I'm Sorry</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Scientists</label>
+		<defName>ME_MELE_The_Scientist</defName>
+		<clipPath>MusicExpanded/MELE/The Scientists</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Aralakh Company</label>
+		<defName>ME_MELE_Aralakh_Company</defName>
+		<clipPath>MusicExpanded/MELE/Aralakh Company</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	
+		<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Prothean Beacon</label>
+		<defName>ME_MELE_Prothean_Beacon</defName>
+		<clipPath>MusicExpanded/MELE/Prothean Beacon</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Defeat</label>
+		<defName>ME_MELE_Defeat</defName>
+		<clipPath>MusicExpanded/MELE/Defeat</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Stand Strong, Stand Together</label>
+		<defName>ME_MELE_Stand_Strong_Stand_Together</defName>
+		<clipPath>MusicExpanded/MELE/Stand Strong, Stand Together</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - I Was Lost Without You</label>
+		<defName>ME_MELE_I_Was_Lost_Without_You</defName>
+		<clipPath>MusicExpanded/MELE/I Was Lost Without You</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Fleets Arrive</label>
+		<defName>ME_MELE_The_Fleet_Arrives</defName>
+		<clipPath>MusicExpanded/MELE/The Fleets Arrive</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	
+		<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - We Face Our Enemy Together</label>
+		<defName>ME_MELE_We_Face_Our_Enemy_Together</defName>
+		<clipPath>MusicExpanded/MELE/We Face Our Enemy Together</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - I'm Proud of You</label>
+		<defName>ME_MELE_Im_Proud_of_You</defName>
+		<clipPath>MusicExpanded/MELE/I'm Proud of You</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Betrayal</label>
+		<defName>ME_MELE_Betrayal</defName>
+		<clipPath>MusicExpanded/MELE/Betrayal</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Creation</label>
+		<defName>ME_MELE_Creation</defName>
+		<clipPath>MusicExpanded/MELE/Creation</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+
+   
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Theme</label>
+		<defName>ME_MELE_Mass_Effect_Theme</defName>
+		<clipPath>MusicExpanded/MESM/Mass Effect Theme</clipPath>
+		<cue>MainMenu</cue>
+		<playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - An End, Once and For All</label>
+		<defName>ME_MELE_An_End_Once_And_For_All</defName>
+		<clipPath>MusicExpanded/MESM/An End, Once and For All</clipPath>
+		<cue>Credits</cue>
+		<playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The End</label>
+		<defName>ME_MELE_The_End</defName>
+		<clipPath>MusicExpanded/MESM/The End</clipPath>
+		<cue>Credits</cue>
+		<playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef>   
+
+	
+   
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Battle at Eden Prime</label>
+		<defName>ME_MELE_Battle_At_Eden_Prime</defName>
+		<clipPath>MusicExpanded/MEBM/Battle at Eden Prime</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>  	
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Protecting the Colony</label>
+		<defName>ME_MELE_Protecting_the_Colony</defName>
+		<clipPath>MusicExpanded/MEBM/Protecting the Colony</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>    
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Saren's Base</label>
+		<defName>ME_MELE_Sarens_Base</defName>
+		<clipPath>MusicExpanded/MEBM/Saren's Base</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Breeding Ground</label>
+		<defName>ME_MELE_Breeding_Ground</defName>
+		<clipPath>MusicExpanded/MEBM/Breeding Ground</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Virmire Ride</label>
+		<defName>ME_MELE_Virmire_Ride</defName>
+		<clipPath>MusicExpanded/MEBM/Virmire Ride</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>    
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Attack</label>
+		<defName>ME_MELE_The_Attack</defName>
+		<clipPath>MusicExpanded/MEBM/The Attack</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - A Rude Awakening</label>
+		<defName>ME_MELE_A_Rude_Awakening</defName>
+		<clipPath>MusicExpanded/MEBM/A Rude Awakening</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Miranda</label>
+		<defName>ME_MELE_Miranda</defName>
+		<clipPath>MusicExpanded/MEBM/Miranda</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Jacob</label>
+		<defName>ME_MELE_Jacob</defName>
+		<clipPath>MusicExpanded/MEBM/Jacob</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>   
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Legion</label>
+		<defName>ME_MELE_Legion</defName>
+		<clipPath>MusicExpanded/MEBM/Legion</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>   
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Cerberus Plot</label>
+		<defName>ME_MELE_The_Cerberus_Plot</defName>
+		<clipPath>MusicExpanded/MEBM/The Cerberus Plot</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 	
+	
+   
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Thorian</label>
+		<defName>ME_MELE_The_Thorian</defName>
+		<clipPath>MusicExpanded/MEBM/The Thorian</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Alien Queen</label>
+		<defName>ME_MELE_The_Alien_Queen</defName>
+		<clipPath>MusicExpanded/MEBM/The Alien Queen</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Fatal Confrontation</label>
+		<defName>ME_MELE_Fatal_Confrontation</defName>
+		<clipPath>MusicExpanded/MEBM/Fatal Confrontation</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>    
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Thane</label>
+		<defName>ME_MELE_Thane</defName>
+		<clipPath>MusicExpanded/MEBM/Thane</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Garrus</label>
+		<defName>ME_MELE_Garrus</defName>
+		<clipPath>MusicExpanded/MEBM/Garrus</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>    
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Tali</label>
+		<defName>ME_MELE_Tali</defName>
+		<clipPath>MusicExpanded/MEBM/Tali</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>    
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Jack</label>
+		<defName>ME_MELE_Jack</defName>
+		<clipPath>MusicExpanded/MEBM/Jack</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>			
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - A Cerberus Agent</label>
+		<defName>ME_MELE_A_Cerberus_Agent</defName>
+		<clipPath>MusicExpanded/MEBM/A Cerberus Agent</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	
+   
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Uplink</label>
+		<defName>ME_MELE_Uplink</defName>
+		<clipPath>MusicExpanded/MEBM/Uplink</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Battling Saren</label>
+		<defName>ME_MELE_Battling_Saren</defName>
+		<clipPath>MusicExpanded/MEBM/Battling Saren</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - In Pursuit of Saren</label>
+		<defName>ME_MELE_In_Pursuit_of_Saren</defName>
+		<clipPath>MusicExpanded/MEBM/In Pursuit of Saren</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>    
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Samara</label>
+		<defName>ME_MELE_Samara</defName>
+		<clipPath>MusicExpanded/MEBM/Samara</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Grunt</label>
+		<defName>ME_MELE_Grunt</defName>
+		<clipPath>MusicExpanded/MEBM/Grunt</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>    
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Mordin</label>
+		<defName>ME_MELE_Mordin</defName>
+		<clipPath>MusicExpanded/MEBM/Mordin</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>    
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Normandy Attacked</label>
+		<defName>ME_MELE_The_Normandy_Attacked</defName>
+		<clipPath>MusicExpanded/MEBM/The Normandy Attacked</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The Ardat Yakshi</label>
+		<defName>ME_MELE_The_Ardat_Yakshi</defName>
+		<clipPath>MusicExpanded/MEBM/The Ardat Yakshi</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	
+   
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Final Assault</label>
+		<defName>ME_MELE_Final_Assault</defName>
+		<clipPath>MusicExpanded/MEBM/Final Assault</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 	   
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Crash Landing</label>
+		<defName>ME_MELE_Crash_Landing</defName>
+		<clipPath>MusicExpanded/MEBM/Crash Landing</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - The End Run</label>
+		<defName>ME_MELE_The_End_Run</defName>
+		<clipPath>MusicExpanded/MEBM/The End Run</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>  
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Reaper Chase</label>
+		<defName>ME_MELE_Reaper_Chase</defName>
+		<clipPath>MusicExpanded/MEBM/Reaper Chase</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	
+
+	<MusicExpanded.TrackDef>
+		<label>Mass Effect LE - Saren</label>
+		<defName>ME_MELE_Saren</defName>
+		<clipPath>MusicExpanded/MESM/Saren</clipPath>
+		<cue>Custom</cue>	
+		<cueData>ColonistDied</cueData>			
+	</MusicExpanded.TrackDef>
+	
+	
+</Defs>
